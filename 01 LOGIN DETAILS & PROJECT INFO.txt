@@ -11,3 +11,11 @@
 
 Email   : admin@mail.com
 Password: codeastro.com
+
+
+git
+
+ssh u763811849@145.79.209.245 -p 65002
+Anees@13.12
+git clone https://github.com/wahidcodes/rammpangaligal
+mv rammpangaligal public_html
