@@ -358,7 +358,7 @@ function getMembershipTypeName($membershipTypeId)
   <footer class="main-footer">
     
     <div class="float-right d-none d-sm-inline-block">
-      <b>Developed By</b> <a href="">Wahid</a>
+      <b>Developed By</b> <a href="">Anees Basha</a>
     </div>
   </footer>
 </div>
